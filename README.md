@@ -10,5 +10,6 @@ Hi, I'm Kaveh, a Mechatronics Engineer specializing in autonomous navigation sys
 
 ## Pinned Repositories
 
+- [vins mono euroc evaluation](https://github.com/kavehsgh/vins-mono-euroc-evaluation)
 - [autonomous-navigation-ros2](https://github.com/kavehsgh/autonomous-navigation-ros2)
 - [rtabmap-turtlebot3](https://github.com/kavehsgh/rtabmap-turtlebot3)
