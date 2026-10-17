@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Kaveh, a Mechatronics Engineer specializing in autonomous navigation systems, computer vision, and embedded systems. I have a strong background in Python, C/C++, ROS1, and embedded development. Welcome to my GitHub profile where I showcase my projects and contributions to the field of robotics and automation.
+Hi, I'm Kaveh, a Mechatronics Engineer specializing in autonomous navigation systems, computer vision, and embedded systems. I have a strong background in Python, C/C++, ROS1/2, and embedded development. Welcome to my GitHub profile where I showcase my projects and contributions to the field of robotics and automation.
 
 - 🔭 I’m currently working on Robotic vision applications
 - 🌱 I’m currently learning PCL.
